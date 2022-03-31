@@ -5,8 +5,7 @@
 		<listener class-name="events.TestNgListeners"></listener>
 	</listeners>
 	<test thread-count="5" name="Test">
-		<classes>
-			
+		<classes>			
 			<class name="tests.TC002_EditLead" />
 		</classes>
 	</test> <!-- Test -->
