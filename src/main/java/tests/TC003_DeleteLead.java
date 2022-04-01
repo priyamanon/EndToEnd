@@ -16,11 +16,11 @@ public class TC003_DeleteLead extends TestNgHooks{
 	
 	@BeforeTest
 	public void setData() {
-		testCaseName = "TC002DeleteLead";
+		testCaseName = "TC003DeleteLead";
 		testDescription = "Login to Leaftaps";
 		category = "smoke";
 		authors = "Viji";  
-		dataSheetName = "TC003";
+		dataSheetName = "TC001";
 		nodes = "Leads";
 	}
 	
