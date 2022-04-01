@@ -20,7 +20,7 @@ public class TC002_EditLead extends TestNgHooks{
 		testDescription = "Login to Leaftaps";
 		category = "smoke";
 		authors = "Viji";  
-		dataSheetName = "TC002";
+		dataSheetName = "TC001";
 		nodes = "Leads";
 	}
 	
